@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Jordan blue &#8211; MY STORE</title>
+	<atom:link href="http://localhost/myproject/wordpress/tu-khoa-san-pham/jordan-blue/feed/" rel="self" type="application/rss+xml" />
+	<link>https://duykhanh02.github.io/Mystoree</link>
+	<description></description>
+	<lastBuildDate>Sun, 27 Jun 2021 10:36:32 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+
+<image>
+	<url>https://duykhanh02.github.io/Mystoree/wp-content/uploads/2021/06/images3.png</url>
+	<title>Jordan blue &#8211; MY STORE</title>
+	<link>https://duykhanh02.github.io/Mystoree</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Air Jordan 1 Retro High White University Blue Black (GS)</title>
+		<link>https://duykhanh02.github.io/Mystoree/san-pham/air-jordan-1-retro-high-white-university-blue-black-gs/</link>
+					<comments>https://duykhanh02.github.io/Mystoree/san-pham/air-jordan-1-retro-high-white-university-blue-black-gs/#respond</comments>
+		
+		<dc:creator><![CDATA[Duy Khánh]]></dc:creator>
+		<pubDate>Mon, 21 Jun 2021 14:48:31 +0000</pubDate>
+				<guid isPermaLink="false">https://duykhanh02.github.io/Mystoree/?post_type=product&#038;p=271</guid>
+
+					<description><![CDATA[Jordan-1-University-Blue
+
+Sản phẩm chính hãng và mới 100%
+White / University Blue — Black]]></description>
+										<content:encoded><![CDATA[<p>Jordan-1-University-Blue</p>
+<p>Sản phẩm chính hãng và mới 100%</p>
+<p>White / University Blue — Black</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://duykhanh02.github.io/Mystoree/san-pham/air-jordan-1-retro-high-white-university-blue-black-gs/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

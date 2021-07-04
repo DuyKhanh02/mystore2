@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Nike Phantom &#8211; MY STORE</title>
+	<atom:link href="http://localhost/myproject/wordpress/tu-khoa-san-pham/nike-phantom/feed/" rel="self" type="application/rss+xml" />
+	<link>https://duykhanh02.github.io/Mystoree</link>
+	<description></description>
+	<lastBuildDate>Tue, 29 Jun 2021 10:19:23 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+
+<image>
+	<url>https://duykhanh02.github.io/Mystoree/wp-content/uploads/2021/06/images3.png</url>
+	<title>Nike Phantom &#8211; MY STORE</title>
+	<link>https://duykhanh02.github.io/Mystoree</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Nike Phantom GT Academy MG</title>
+		<link>https://duykhanh02.github.io/Mystoree/san-pham/nike-phantom-gt-academy-mg/</link>
+					<comments>https://duykhanh02.github.io/Mystoree/san-pham/nike-phantom-gt-academy-mg/#respond</comments>
+		
+		<dc:creator><![CDATA[Duy Khánh]]></dc:creator>
+		<pubDate>Sun, 27 Jun 2021 10:49:42 +0000</pubDate>
+				<guid isPermaLink="false">https://duykhanh02.github.io/Mystoree/?post_type=product&#038;p=355</guid>
+
+					<description><![CDATA[Viền ngoài trung tâm cung cấp một vùng tấn công sạch sẽ cho các cú đá tập trung,
+
+trong khi một đường vân nổi trong suốt giúp tạo độ xoáy tối ưu để kiểm soát đường bay của bóng.
+
+&#160;]]></description>
+										<content:encoded><![CDATA[<p>Nike Phantom GT Academy MG được thiết kế để có độ chính xác mạnh mẽ.</p>
+<p>Viền ngoài trung tâm cung cấp một vùng tấn công sạch sẽ cho các cú đá tập trung,</p>
+<p>trong khi một đường vân nổi trong suốt giúp tạo độ xoáy tối ưu để kiểm soát đường bay của bóng.</p>
+<p>&nbsp;</p>
+<pre id="tw-target-text" class="tw-data-text tw-text-large XcVN5d tw-ta" dir="ltr" data-placeholder="Bản dịch"></pre>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://duykhanh02.github.io/Mystoree/san-pham/nike-phantom-gt-academy-mg/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
